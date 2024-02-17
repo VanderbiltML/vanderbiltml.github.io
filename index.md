@@ -1,5 +1,5 @@
 ---
-title:
+title: Vanderbilt Machine Learning Seminar Series
 layout: default
 meta-description: "Seminar series on the frontier of machine learning. Open to all Vanderbilt CS students Mondays 12:10-1:30 pm. Recordings are available to the public. "
 ---
@@ -80,7 +80,6 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
   {% endfor %}
   
 </div>
-<div class="note">(*): incoming </div> 
 {% endfor %}
 
 /// Older talks can be found in Archives.
