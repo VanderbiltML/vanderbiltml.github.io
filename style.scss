@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  background: $ivory;
+  background: white;
   font: 18px/1.4 avenir, helvetica, sans-serif;
   color: $darkGray;
   padding-bottom: 40px;
@@ -32,7 +32,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $openSans;
+  font-family: Arial, Helvetica, sans-serif;
   color: $darkerGray;
   font-weight: bold;
 
@@ -179,7 +179,7 @@ img {
   @include mobile {
     float: none;
     display: block;
-    margin: 0 auto;
+    margin: 10 auto;
   }
 
   img {
@@ -193,7 +193,7 @@ img {
   @include mobile {
     float: none;
     display: block;
-    margin: 0 auto;
+    margin: 10 auto;
   }
 }
 
@@ -339,13 +339,20 @@ footer {
 .talk-date {
   float: right;
   font-size: 1.1rem;
-  color: #ac8100;
+  color: #DFAC11;
+}
+
+.talk-today {
+  float: bottom;
+  padding-right: 10px;
+  font-size: 1.1rem;
+  color: #DFAC11;
 }
 
 .talk-presenter {
   font: average, helvetica, sans-serif;
-  font-weight: 700;
-  font-size: 1.2rem;
+  font-weight: 600;
+  font-size: 1.3rem;
 }
 
 .talk-title-link {
@@ -355,7 +362,7 @@ footer {
 .list-group-item {
     position: relative;
     display: block;
-    padding: 10px 15px;
+    padding: 15px 25px;
     margin-bottom: -1px;
     border: 1px solid $darkGray;
     border-bottom: 0px;
@@ -421,7 +428,7 @@ details > summary {
   padding: 0px 10px;
   height: 60%;
   font-size: large;
-  background-color: $ivory;
+  background-color: $white;
   border-top-right-radius: 10px;
   border-top-left-radius: 10px;
   border-bottom-right-radius: 10px;
@@ -430,10 +437,10 @@ details > summary {
   display: flex;
   width: 100%;
   outline: 0;
-  font: $sourceSansPro;
+  font: avenir, helvetica, sans-serif;
 }
 .textbox:focus {
-  background: #fff3cf;
+  background: #f5d064;
   outline: none;
 }
 
@@ -443,7 +450,7 @@ details > summary {
   white-space: pre-wrap;
   height: 200%;
   font-size: large;
-  font: $sourceSansPro;
+  font: average, helvetica, sans-serif;
 }
 
 .textbox-container {

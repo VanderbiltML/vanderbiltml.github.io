@@ -6,27 +6,37 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
 
 <!-- <img src="/images/f2023i.png" width="100%" style="border-radius:10px"> -->
 
-## Announcements
+<div align="center">
+    <h2>Announcements</h2>
+</div>
+
 
 <div class="announcement-group" markdown="1">
 <!--    * [vu.edu/ML](https://vu.edu/ml/) and [vanderbi.lt/ML](https://vanderbi.lt/ml/) will now redirect to this page. -->
+   * Our talks are open to the public. No registration is required.
    * Our virtual (Zoom) talks are on Mondays at 12:20 PM CT and typically last for 1 hour (approximately 45 to 50-minute talk plus Q&A).
-   * Join the [MLSE Group](https://groups.google.com/forum/#!forum/vanderbiltmlss/join) for discussions and notifications of upcoming talks. 
+   * Join our [Google group](https://groups.google.com/forum/#!forum/vanderbiltmlss/join) for discussions and notifications of upcoming talks. 
 <!--    * Visit this site at the scheduled time to attend. If you are not affiliated with Vanderbilt, request your access [here](https://forms.gle/zijM9mau411Sx5M78). -->
 </div>
 
 {% for category in site.data.talks %}
-## {{ category.type }}
+
+<div align="center">
+    <h2>{{ category.type }}</h2>
+</div>
+
 
 
 
 
 <div class="talk-list">
   {% for talk in category.members %}
-    {% if category.type == "Happening Today"%}
+    {% if category.type == "Happening"%}
       <div class="talk current-talk-group"> 
         <div class="current-talk-join-button"><button class="button1" role="button" type="submit" onclick="location.href='https://vanderbilt.zoom.us/j/94680589561'">Join Now</button></div>
+        <div class='talk-today'>{{ site.time | date: "%B %d, %Y" }} at 12:15 PM Central Time</div>
         <div class="talk-presenter">{{ talk.speaker }}</div>
+        
         {% if talk.title %}
           <span>{{ talk.title }}</span>
         {% endif %}
@@ -56,6 +66,7 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
           {% endif %}
         </div>
       {% endif %}
+      
       {% if talk.abstract %}
         <details>
         <summary>Abstract</summary>
