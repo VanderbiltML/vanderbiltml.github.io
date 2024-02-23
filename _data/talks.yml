@@ -10,10 +10,10 @@
     - speaker: Ricky Chen, Meta AI (FAIR) in New York
       date: 03/04/2024
       abstract: TBD
-    - speaker: Max Welling, Microsoft Research, University of Amsterdam
+    - speaker: Max Welling, Microsoft Research / University of Amsterdam
       date: 03/11/2024
       abstract: TBD
-    - speaker: Nicolas Papernot, Google DeepMind, U of Toronto
+    - speaker: Nicolas Papernot, Google DeepMind / U of Toronto
       date: 03/18/2024
       abstract: TBD
     - speaker: Frank Tong, Vanderbilt University
@@ -21,6 +21,9 @@
       abstract: TBD
     - speaker: Ryan Rossi, Adobe Research
       date: TBD
+      abstract: TBD
+    - speaker: Zachary Lipton, Abridge / Carnegie Mellon University
+      date: 04/22/2024
       abstract: TBD
     - speaker: Jörn-Henrik Jacobsen, Apple AI/ML Research
       date: TBD
