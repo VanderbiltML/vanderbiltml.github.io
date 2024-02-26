@@ -9,7 +9,8 @@
   members:
     - speaker: Ricky Chen, Meta AI (FAIR) in New York
       date: 03/04/2024
-      abstract: TBD
+      abstract: "Latent dynamics pervade the world and hence our observations of it, a.k.a. data. However, we never fully observe the data generation process, so how should we go about filling in the blanks in our observations? In this talk, I will discuss my perspective on the field of generative modeling as that of learning dynamical systems of the world. In particular, I will motivate and discuss general recipes for constructing and training generative models, with the central theme of simulation-free training paradigms. This simulation-free perspective allows us to decouple the algorithmic cost of training from the complexity of the data generation process. However, simple methods within this family class such as diffusion models are not readily amenable to additional constraints or regularizations that we wish to impose on the generation process. I will first introduce the Flow Matching approach for learning generative models where the generation process is directly prescribed. I will then discuss generalizations of this approach to setups where the generation process must lie on a manifold, and where the generation process is only implicitly defined as the solution to some task-specific objective function, connecting to problems appearing in stochastic optimal control and optimal transport."
+      bio: "Ricky is a Research Scientist at FAIR, Meta, based in New York. His research is on building simplified abstractions of the world through the lens of dynamical systems and flows. He generally works on integrating structured transformations into probabilistic modeling, with the goal of improved interpretability, tractable optimization, or extending into novel areas of application."
     - speaker: Max Welling, Microsoft Research / University of Amsterdam
       date: 03/11/2024
       abstract: TBD
