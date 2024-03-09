@@ -7,9 +7,11 @@
 #       bio: "Ricky is a Research Scientist at FAIR, Meta, based in New York. His research is on building simplified abstractions of the world through the lens of dynamical systems and flows. He generally works on integrating structured transformations into probabilistic modeling, with the goal of improved interpretability, tractable optimization, or extending into novel areas of application."
 - type: Upcoming Talks
   members:
-    - speaker: Max Welling, Microsoft Research / University of Amsterdam
+    - speaker: Max Welling, University of Amsterdam
       date: 03/11/2024
-      abstract: TBD
+      title: "The Synergy between Machine Learning and the Natural Sciences"
+      abstract: "Traditionally machine learning has been heavily influenced by neuroscience (hence the name artificial neural networks) and physics (e.g. MCMC, Belief Propagation, and Diffusion based Generative AI). We have recently witnessed that the flow of information has also reversed, with new tools developed in the ML community impacting physics, chemistry and biology. Examples include faster Density Functional Theory, Force-Field accelerated MD simulations, PDE Neural Surrogate models, generating druglike molecules, and many more. In this talk I will review the exciting opportunities for further cross fertilization between these fields, ranging from faster (classical) DFT calculations and enhanced transition path sampling to traveling waves in artificial neural networks and Neural Quantum Error Correction codes."
+      bio: "Prof. Dr. Max Welling is a full professor and research chair in Machine Learning at the University of Amsterdam and a Merkin Distinguished Visiting Professor at Caltech. He is a Fellow at the Canadian Institute for Advanced Research (CIFAR) and the European Lab for Learning and Intelligent Systems (ELLIS) where he served on the founding board. His previous appointments include Partner and VP at Microsoft Research, VP at Qualcomm Technologies, professor at UC Irvine, postdoc at UCL & U. Toronto under supervision of Prof. Geoffrey Hinton, and postdoc at Caltech under supervision of Prof. Pietro Perona. He finished his PhD in theoretical high energy physics under supervision of Nobel laureate prof. Gerard ‘t Hooft. "
     - speaker: Nicolas Papernot, Google DeepMind / U of Toronto
       date: 03/18/2024
       abstract: TBD
