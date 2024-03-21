@@ -34,7 +34,7 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
     {% if category.type == "Happening"%}
       <div class="talk current-talk-group"> 
         <div class="current-talk-join-button"><button class="button1" role="button" type="submit" onclick="location.href='https://vanderbilt.zoom.us/j/94680589561'">Join Now</button></div>
-        <div class='talk-today'>March 18, 2024 at 12:15 PM Central Time</div>
+        <div class='talk-today'>March 25, 2024 at 12:15 PM Central Time</div>
         <div class="talk-presenter">{{ talk.speaker }}</div>
         
         {% if talk.title %}
