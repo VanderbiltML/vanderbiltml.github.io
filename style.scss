@@ -304,10 +304,10 @@ footer {
     // background-color: #FEEEB6;
     background-color: rgba(0, 0, 0, 0.69); /* 70% opacity */
     color: white;
-    border-top-right-radius: 30px;
-    border-top-left-radius: 30px;
-    border-bottom-right-radius: 30px;
-    border-bottom-left-radius: 30px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
 }
 
 // Footnote
@@ -326,10 +326,10 @@ footer {
   border: 0px solid $darkGray;
   background-color: rgba(0, 0, 0, 0.69); /* 70% opacity */
   color: white;
-  border-top-right-radius: 30px;
-  border-top-left-radius: 30px;
-  border-bottom-right-radius: 30px;
-  border-bottom-left-radius: 30px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
 }
 .current-talk-join-button {
   float: right;
@@ -339,7 +339,7 @@ footer {
 .talk-date {
   float: right;
   font-size: 1.1rem;
-  color: #DFAC11;
+  color: #000000;
 }
 
 .talk-today {
@@ -369,14 +369,14 @@ footer {
 }
 
 .list-group-item:first-child {
-    border-top-right-radius: 30px;
-    border-top-left-radius: 30px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
 }
 
 .list-group-item:last-child {
     border-bottom: 1px solid $darkerGray;
-    border-bottom-right-radius: 30px;
-    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
 }
 
 details > summary::-webkit-details-marker {
@@ -402,7 +402,7 @@ details > summary {
 .form {
   background-color: white;
   border: 0px solid $darkGray;
-  border-radius: 30px;
+  border-radius: 10px;
   box-sizing: border-box;
   height: 470px;
   padding: 20px;
