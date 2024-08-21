@@ -12,20 +12,26 @@
     #   title: "Understanding The Computational Bases of Robust Object Recognition In Humans and Deep Neural Networks"
     #   abstract: "Deep neural networks (DNNs) trained on object classification provide the best current models of human vision, with accompanying claims that they have attained or even surpassed human-level performance. However, DNNs tend to fail catastrophically in situations where humans do not, especially when faced with noisy, degraded, or ambiguous visual inputs. Such findings imply that the computations performed by DNNs do not adequately match those performed by the human brain. In this talk, I will discuss whether the brittleness of current DNN models is caused by flaws in their architectural design, imperfections in their learning protocols, or inadequacies in their training experiences. Here, we evaluated the hypothesis that everyday encounters with visual blur may be a critical feature for conferring robustness to biological and artificial visual systems. Our studies show how learning has a critical role in the acquisition of robust object representations, such that appropriately trained DNN models can better predict human behavioral and neural responses across a range of challenging viewing conditions." 
     #   bio: "Dr. Frank Tong studies the neurocomputational bases of human vision using behavioral psychophysics, functional MRI, computational modeling and deep learning techniques. A major focus of his lab is developing more robust and human-aligned DNN models of visual processing. He received his BS in Psychology from Queen’s University, Canada and PhD from Harvard University. He worked as an Assistant Professor at Princeton University from 2000-2004, and moved to Vanderbilt University thereafter, where he is now a Centennial Professor of Psychology. For his research contributions, he has received awards from the Cognitive Neuroscience Society, the Vision Sciences Society, and the National Academy of Sciences. "
-    - speaker: Saining Xie, NYU
-      date: TBD
-      abstract: TBD
+    - speaker: Leon Bottou, Meta AI (FAIR) in New York
+      date: 08/26/2024
+      abstract: Memory Mosaics
     - speaker: Jiajun Wu, Stanford University
-      date: TBD
+      date: 09/09/2024
+      abstract: TBD
+    - speaker: Yu Wang, Vanderbilt University
+      date: 09/16/2024
       abstract: TBD
     - speaker: Yilun Du, Harvard University
-      date: TBD
+      date: 09/23/2024
       abstract: TBD
-    - speaker: Leon Bottou, Meta AI (FAIR) in New York
-      date: TBD
-      abstract: TBD      
     - speaker: Furong Huang, University of Maryland
-      date: TBD
+      date: 09/30/2024
+      abstract: TBD
+    - speaker: Saining Xie, NYU
+      date: 10/07/2024
+      abstract: TBD
+    - speaker: Youssef Mroueh, IBM Research/MIT-IBM Watson AI Lab
+      date: 10/07/2024
       abstract: TBD
     - speaker: Jingrui He, University of Illinois Urbana-Champaign
       date: TBD
@@ -36,9 +42,7 @@
     - speaker: Jörn-Henrik Jacobsen, Apple AI/ML Research
       date: TBD
       abstract: TBD
-    - speaker: Yu Wang, Vanderbilt University
-      date: TBD
-      abstract: TBD
+
 
 - type: Previous Talks
   members:
