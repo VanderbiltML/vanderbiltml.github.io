@@ -7,7 +7,7 @@
 
 - type: Upcoming Talks
   members:
-    - speaker: Yilun Du, MIT / Harvard University (*)
+    - speaker: Yilun Du, Google DeepMind / Harvard University (*)
       date: 09/23/2024
       title: "Generalizing Outside the Training Distribution Through Compositional Generation"
       abstract: "Generative AI has led to stunning successes in recent years but is fundamentally limited by the amount of data available. This is especially limiting in the embodied setting – where an agent must solve new tasks in new environments. In this talk, I’ll introduce the idea of compositional generative modeling, which enables generalization beyond the training data by building complex generative models from smaller constituents. I’ll first introduce the idea of energy-based models and illustrate how they enable compositional generative modeling. I’ll then illustrate how such compositional models enable us to synthesize complex plans for unseen tasks at inference time. Finally, I'll show how such compositionality can be applied to multiple foundation models trained on various forms of Internet data, enabling us to construct decision-making systems that can hierarchically plan and solve long-horizon problems in a zero-shot manner."
