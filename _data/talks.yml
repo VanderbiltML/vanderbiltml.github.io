@@ -1,10 +1,10 @@
-- type: Happening
-  members:
-    - speaker: Yilun Du, Google DeepMind / Harvard University (*)
-      date: 09/23/2024
-      title: "Generalizing Outside the Training Distribution Through Compositional Generation"
-      abstract: "Generative AI has led to stunning successes in recent years but is fundamentally limited by the amount of data available. This is especially limiting in the embodied setting – where an agent must solve new tasks in new environments. In this talk, I’ll introduce the idea of compositional generative modeling, which enables generalization beyond the training data by building complex generative models from smaller constituents. I’ll first introduce the idea of energy-based models and illustrate how they enable compositional generative modeling. I’ll then illustrate how such compositional models enable us to synthesize complex plans for unseen tasks at inference time. Finally, I'll show how such compositionality can be applied to multiple foundation models trained on various forms of Internet data, enabling us to construct decision-making systems that can hierarchically plan and solve long-horizon problems in a zero-shot manner."
-      bio: "Yilun Du is senior research scientist at Google Deepmind and an Incoming Assistant Professor in the Harvard Kempner Institute and Computer Science. He received his PhD at MIT, advised by Leslie Kaelbling, Tomas Lozano-Perez, and Joshua Tenenbaum. His research spans the fields of machine learning and robotics, with a focus on generative models. Yilun was a recipient of the NSF Graduate Fellowship and a finalist for Qualcomm and Open Philanthropy fellowships. Previous, he has done research fellowships/internships at OpenAI, FAIR, DeepMind.  His work has received best paper awards at ICLR and at NeurIPS and ICRA workshops." 
+# - type: Happening
+#   members:
+#     - speaker: Yilun Du, Google DeepMind / Harvard University (*)
+#       date: 09/23/2024
+#       title: "Generalizing Outside the Training Distribution Through Compositional Generation"
+#       abstract: "Generative AI has led to stunning successes in recent years but is fundamentally limited by the amount of data available. This is especially limiting in the embodied setting – where an agent must solve new tasks in new environments. In this talk, I’ll introduce the idea of compositional generative modeling, which enables generalization beyond the training data by building complex generative models from smaller constituents. I’ll first introduce the idea of energy-based models and illustrate how they enable compositional generative modeling. I’ll then illustrate how such compositional models enable us to synthesize complex plans for unseen tasks at inference time. Finally, I'll show how such compositionality can be applied to multiple foundation models trained on various forms of Internet data, enabling us to construct decision-making systems that can hierarchically plan and solve long-horizon problems in a zero-shot manner."
+#       bio: "Yilun Du is senior research scientist at Google Deepmind and an Incoming Assistant Professor in the Harvard Kempner Institute and Computer Science. He received his PhD at MIT, advised by Leslie Kaelbling, Tomas Lozano-Perez, and Joshua Tenenbaum. His research spans the fields of machine learning and robotics, with a focus on generative models. Yilun was a recipient of the NSF Graduate Fellowship and a finalist for Qualcomm and Open Philanthropy fellowships. Previous, he has done research fellowships/internships at OpenAI, FAIR, DeepMind.  His work has received best paper awards at ICLR and at NeurIPS and ICRA workshops." 
 - type: Upcoming Talks
   members:
     - speaker: Furong Huang, University of Maryland
@@ -40,6 +40,11 @@
 
 - type: Previous Talks
   members:
+    - speaker: Yilun Du, Google DeepMind / Harvard University (*)
+      date: 09/23/2024
+      title: "Generalizing Outside the Training Distribution Through Compositional Generation"
+      abstract: "Generative AI has led to stunning successes in recent years but is fundamentally limited by the amount of data available. This is especially limiting in the embodied setting – where an agent must solve new tasks in new environments. In this talk, I’ll introduce the idea of compositional generative modeling, which enables generalization beyond the training data by building complex generative models from smaller constituents. I’ll first introduce the idea of energy-based models and illustrate how they enable compositional generative modeling. I’ll then illustrate how such compositional models enable us to synthesize complex plans for unseen tasks at inference time. Finally, I'll show how such compositionality can be applied to multiple foundation models trained on various forms of Internet data, enabling us to construct decision-making systems that can hierarchically plan and solve long-horizon problems in a zero-shot manner."
+      bio: "Yilun Du is senior research scientist at Google Deepmind and an Incoming Assistant Professor in the Harvard Kempner Institute and Computer Science. He received his PhD at MIT, advised by Leslie Kaelbling, Tomas Lozano-Perez, and Joshua Tenenbaum. His research spans the fields of machine learning and robotics, with a focus on generative models. Yilun was a recipient of the NSF Graduate Fellowship and a finalist for Qualcomm and Open Philanthropy fellowships. Previous, he has done research fellowships/internships at OpenAI, FAIR, DeepMind.  His work has received best paper awards at ICLR and at NeurIPS and ICRA workshops." 
     - speaker: Leon Bottou, Meta AI (FAIR) in New York
       date: 08/26/2024
       title: "Memory Mosaics"
