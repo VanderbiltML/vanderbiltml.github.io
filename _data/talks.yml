@@ -10,7 +10,9 @@
   members:
     - speaker: Saining Xie, NYU
       date: 10/07/2024
-      abstract: TBD
+      title: "Grounding (and Evaluating) Visual Intelligence in Real Life"
+      abstract: "This talk provides an overview of our recent work in multimodal foundation models. We start by exploring the visual shortcomings of multimodal large language models, followed by a discussion on how to enhance LLMs with better and more precise visual grounding. Our approach incorporates mechanisms such as visual self-supervised learning, human-like visual search and system II reasoning into multimodal LLMs. By integrating an informed visual search algorithm, we enable LLMs to identify relevant information within a multitude of stimuli and interact more effectively with real-world data. We also ground LLMs in real-life experiences using actionable environments like street view imagery, enriching their sensory grounding and resonating with urban life nuances. This line of research aims to empower LLMs to interact with and understand the sensory-rich world in a more realistic and meaningful way."
+      bio: "Saining Xie is an Assistant Professor of Computer Science at the Courant Institute of Mathematical Sciences at New York University and is affiliated with NYU Center for Data Science. He is also a visiting faculty researcher at Google Research. Before joining NYU in 2023, he was a research scientist at FAIR, Meta. In 2018, he received his Ph.D. degree in computer science from the University of California San Diego. Prior to that, he received his Bachelor’s degree from Shanghai Jiao Tong University. Saining works in computer vision and machine learning, with a particular interest in scalable visual representation learning. His work has been recognized with the Marr Prize honorable mention, CVPR best paper finalists and an Amazon research award."
     - speaker: Yu Wang, University of Oregon
       date: 10/14/2024
       abstract: TBD
