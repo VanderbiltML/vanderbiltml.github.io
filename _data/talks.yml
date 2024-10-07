@@ -1,4 +1,5 @@
 - type: Happening
+  members:
     - speaker: Saining Xie, NYU
       date: 10/07/2024
       title: "Grounding (and Evaluating) Visual Intelligence in Real Life"
