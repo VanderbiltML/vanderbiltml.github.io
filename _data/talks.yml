@@ -1,15 +1,12 @@
-# - type: Happening
-#   members:
-#     - speaker: Huy Vo, Meta AI
-#       date: 10/28/2024
-#       title: "Automatic Data Curation for Self-Supervised Learning: A Clustering-Based Approach"
-#       abstract: "Self-supervised features are the cornerstone of modern machine learning systems. They are typically pre-trained on data collections whose construction and curation typically require extensive human effort. This manual process has some limitations similar to those encountered in supervised learning, e.g., the crowd-sourced selection of data is costly and time-consuming, preventing scaling the dataset size. In this work, we consider the problem of automatic curation of high-quality datasets for self-supervised pre-training. We posit that such datasets should be large, diverse and balanced, and propose a clustering-based approach for building ones satisfying all these criteria. Our method involves successive and hierarchical applications of k-means on a large and diverse data repository to obtain clusters that distribute uniformly among data concepts, followed by a hierarchical, balanced sampling step from these clusters. Extensive experiments on three different data domains including web-based images, satellite images and text show that features trained on our automatically curated datasets outperform those trained on uncurated data while being on par or better than ones trained on manually curated data."
-#       bio: "Huy V. Vo is currently a Research Scientist at Meta Fundamental AI Research (FAIR). He obtained his PhD in Computer Science from Ecole Normale Superieure in November 2022. His thesis was prepared in the WILLOW team at INRIA and the Valeo.ai team under the supervision of Prof. Jean Ponce and Prof. Patrick Pérez. Prior to his PhD, he obtained his Master Mathématique-Vision-Apprentissage (MVA) from Ecole Normale Supérieure de Paris Saclay and his engineering diploma from Ecole Polytechnique de Paris. His research focuses on learning problems in images that require less supervision including object discovery, self-supervised feature learning, weakly supervised object detection/segmentation and active learning."
-- type: Upcoming Talks
+- type: Happening
   members:
     - speaker: Jiajun Wu, Stanford University
       date: 11/04/2024
-      abstract: TBD
+      title: " Concept Learning Across Domains and Modalities"
+      abstract: " I will discuss a concept-centric paradigm for building agents that can learn continually and reason flexibly across multiple domains and input modalities. The concept-centric agent utilizes a vocabulary of neuro-symbolic concepts. These concepts, including object, relation, and action concepts, are grounded on sensory inputs and actuation outputs. They are also compositional, allowing for the creation of novel concepts through their structural combination. To facilitate learning and reasoning, the concepts are typed and represented using a combination of symbolic programs and neural network representations. Leveraging such neuro-symbolic concepts, the agent can efficiently learn and recombine them to solve various tasks across different domains and data modalities, ranging from 2D images, videos, 3D scenes, temporal data, and robotic manipulation data."
+      bio: "Jiajun Wu is an Assistant Professor of Computer Science and, by courtesy, of Psychology at Stanford University, working on computer vision, machine learning, and computational cognitive science. Before joining Stanford, he was a Visiting Faculty Researcher at Google Research. He received his PhD in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology. Wu's research has been recognized through the Young Investigator Programs (YIP) by ONR and by AFOSR, the NSF CAREER award, the Okawa research grant, paper awards and finalists at ICCV, CVPR, SIGGRAPH Asia, CoRL, and IROS, dissertation awards from ACM, AAAI, and MIT, the 2020 Samsung AI Researcher of the Year, and faculty research awards from J.P. Morgan, Samsung, Amazon, and Meta."
+- type: Upcoming Talks
+  members:
     - speaker: Jingrui He, University of Illinois Urbana-Champaign
       date: 11/11/2024
       abstract: TBD
