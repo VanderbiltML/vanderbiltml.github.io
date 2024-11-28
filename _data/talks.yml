@@ -8,9 +8,6 @@
 
 - type: Upcoming Talks
   members:
-    - speaker: Lifeng He, Lehigh University
-      date: 12/02/2024
-      abstract: TBD
     - speaker: Jeff Clune, University of British Columbia / Google DeepMind
       date: 12/09/2024
       abstract: TBD
@@ -18,6 +15,9 @@
       date: TBD
       abstract: TBD
     - speaker: Eric Nalisnick, Johns Hopkins University
+      date: TBD
+      abstract: TBD
+    - speaker: Lifang He, Lehigh University
       date: TBD
       abstract: TBD
 
