@@ -1,10 +1,10 @@
-- type: Happening
-  members:
-    - speaker: Qiang Liu, UT Austin
-      date: 01/20/2025
-      title: "Rectified flow: A straight approach to generative modeling."
-      abstract: "Rectified Flow (RF) is a simple yet general approach to generative modeling, widely applied in state-of-the-art AI tasks such as image and video generation. It provides a straightforward method for learning transport mappings between two distributions—observed through either unpaired or paired data points—by learning neural ordinary differential equation (ODE) models that prioritizes path straightness. Straight paths are naturally preferred and allow for fast simulation with large discretization step sizes, enabling efficient one-step or few-step models. Although based solely on ODEs, RF can be extended to offer simplified perspectives on existing diffusion models. Furthermore, it draws close connections to mass transport theory, which we will briefly explore."
-      bio: "Qiang Liu is an associate professor of computer science at UT Austin. His research advances fundamental machine learning algorithms through deep mathematical insights."
+# - type: Happening
+#   members:
+#     - speaker: Qiang Liu, UT Austin
+#       date: 01/20/2025
+#       title: "Rectified flow: A straight approach to generative modeling."
+#       abstract: "Rectified Flow (RF) is a simple yet general approach to generative modeling, widely applied in state-of-the-art AI tasks such as image and video generation. It provides a straightforward method for learning transport mappings between two distributions—observed through either unpaired or paired data points—by learning neural ordinary differential equation (ODE) models that prioritizes path straightness. Straight paths are naturally preferred and allow for fast simulation with large discretization step sizes, enabling efficient one-step or few-step models. Although based solely on ODEs, RF can be extended to offer simplified perspectives on existing diffusion models. Furthermore, it draws close connections to mass transport theory, which we will briefly explore."
+#       bio: "Qiang Liu is an associate professor of computer science at UT Austin. His research advances fundamental machine learning algorithms through deep mathematical insights."
 
 - type: Upcoming Talks
   members:
@@ -36,6 +36,11 @@
 
 - type: Previous Talks
   members:
+    - speaker: Qiang Liu, UT Austin
+      date: 01/20/2025
+      title: "Rectified flow: A straight approach to generative modeling."
+      abstract: "Rectified Flow (RF) is a simple yet general approach to generative modeling, widely applied in state-of-the-art AI tasks such as image and video generation. It provides a straightforward method for learning transport mappings between two distributions—observed through either unpaired or paired data points—by learning neural ordinary differential equation (ODE) models that prioritizes path straightness. Straight paths are naturally preferred and allow for fast simulation with large discretization step sizes, enabling efficient one-step or few-step models. Although based solely on ODEs, RF can be extended to offer simplified perspectives on existing diffusion models. Furthermore, it draws close connections to mass transport theory, which we will briefly explore."
+      bio: "Qiang Liu is an associate professor of computer science at UT Austin. His research advances fundamental machine learning algorithms through deep mathematical insights."
     - speaker: Jeff Clune, University of British Columbia / Google DeepMind
       date: 12/09/2024
       title: "Open-Ended and AI-Generating Algorithms in the Era of Foundation Models"
