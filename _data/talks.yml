@@ -1,10 +1,10 @@
-- type: Happening
-  members:
-    - speaker: Alexander Korotin, Skoltech
-      date: 02/03/2025
-      title: "Building Light Schrödinger Bridges"
-      abstract: "Schrödinger Bridges (SB) have recently gained attention of the ML community as a promising extension of classic diffusion models, which are also interconnected to the Entropic Optimal Transport (EOT). Despite the recent advances in the field of computational Schrödinger Bridges (SB), most existing SB solvers are still heavy-weighted and require complex optimization of several neural networks.We address this issue and propose two novel light solvers for this problem: LightSB and LightSBM. Both utilize the optimal structure of Schrödinger Bridges but in different ways. The LightSB solver allows direct minimized KL-divergence with the ground-truth solution, knowing only start and end marginals. The LightSBM solver is based on bridge matching and introduces the new concept of optimal projection, allowing the Schrödinger Bridge to be solved in one bridge-matching iteration."
-      bio: "Prof. Korotin is an Assistant Professor and leads the Generative AI research group at Skoltech while serving as a senior research scientist at AIRI. He earned his PhD in Math & Physics in 2023 under the supervision of Prof. E. Burnaev. His research mostly revolves around generative modeling with a particular focus on developing novel algorithms based on Optimal Transport and Schrodinger Bridges."
+# - type: Happening
+#   members:
+#     - speaker: Alexander Korotin, Skoltech
+#       date: 02/03/2025
+#       title: "Building Light Schrödinger Bridges"
+#       abstract: "Schrödinger Bridges (SB) have recently gained attention of the ML community as a promising extension of classic diffusion models, which are also interconnected to the Entropic Optimal Transport (EOT). Despite the recent advances in the field of computational Schrödinger Bridges (SB), most existing SB solvers are still heavy-weighted and require complex optimization of several neural networks.We address this issue and propose two novel light solvers for this problem: LightSB and LightSBM. Both utilize the optimal structure of Schrödinger Bridges but in different ways. The LightSB solver allows direct minimized KL-divergence with the ground-truth solution, knowing only start and end marginals. The LightSBM solver is based on bridge matching and introduces the new concept of optimal projection, allowing the Schrödinger Bridge to be solved in one bridge-matching iteration."
+#       bio: "Prof. Korotin is an Assistant Professor and leads the Generative AI research group at Skoltech while serving as a senior research scientist at AIRI. He earned his PhD in Math & Physics in 2023 under the supervision of Prof. E. Burnaev. His research mostly revolves around generative modeling with a particular focus on developing novel algorithms based on Optimal Transport and Schrodinger Bridges."
 
 - type: Upcoming Talks
   members:
@@ -36,6 +36,11 @@
 
 - type: Previous Talks
   members:
+    - speaker: Alexander Korotin, Skoltech
+      date: 02/03/2025
+      title: "Building Light Schrödinger Bridges"
+      abstract: "Schrödinger Bridges (SB) have recently gained attention of the ML community as a promising extension of classic diffusion models, which are also interconnected to the Entropic Optimal Transport (EOT). Despite the recent advances in the field of computational Schrödinger Bridges (SB), most existing SB solvers are still heavy-weighted and require complex optimization of several neural networks.We address this issue and propose two novel light solvers for this problem: LightSB and LightSBM. Both utilize the optimal structure of Schrödinger Bridges but in different ways. The LightSB solver allows direct minimized KL-divergence with the ground-truth solution, knowing only start and end marginals. The LightSBM solver is based on bridge matching and introduces the new concept of optimal projection, allowing the Schrödinger Bridge to be solved in one bridge-matching iteration."
+      bio: "Prof. Korotin is an Assistant Professor and leads the Generative AI research group at Skoltech while serving as a senior research scientist at AIRI. He earned his PhD in Math & Physics in 2023 under the supervision of Prof. E. Burnaev. His research mostly revolves around generative modeling with a particular focus on developing novel algorithms based on Optimal Transport and Schrodinger Bridges."
     - speaker: Qiang Liu, UT Austin
       date: 01/20/2025
       title: "Rectified flow: A straight approach to generative modeling."
