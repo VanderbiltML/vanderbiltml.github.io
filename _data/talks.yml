@@ -1,19 +1,19 @@
-# - type: Happening
-#   members:
-#     - speaker: Qiang Liu, UT Austin
-#       date: 01/20/2025
-#       title: "Rectified flow: A straight approach to generative modeling."
-#       abstract: "Rectified Flow (RF) is a simple yet general approach to generative modeling, widely applied in state-of-the-art AI tasks such as image and video generation. It provides a straightforward method for learning transport mappings between two distributions—observed through either unpaired or paired data points—by learning neural ordinary differential equation (ODE) models that prioritizes path straightness. Straight paths are naturally preferred and allow for fast simulation with large discretization step sizes, enabling efficient one-step or few-step models. Although based solely on ODEs, RF can be extended to offer simplified perspectives on existing diffusion models. Furthermore, it draws close connections to mass transport theory, which we will briefly explore."
-#       bio: "Qiang Liu is an associate professor of computer science at UT Austin. His research advances fundamental machine learning algorithms through deep mathematical insights."
+- type: Happening
+  members:
+    - speaker: Alexander Korotin, Skoltech
+      date: 02/03/2025
+      title: "Building Light Schrödinger Bridges"
+      abstract: "Schrödinger Bridges (SB) have recently gained attention of the ML community as a promising extension of classic diffusion models, which are also interconnected to the Entropic Optimal Transport (EOT). Despite the recent advances in the field of computational Schrödinger Bridges (SB), most existing SB solvers are still heavy-weighted and require complex optimization of several neural networks.We address this issue and propose two novel light solvers for this problem: LightSB and LightSBM. Both utilize the optimal structure of Schrödinger Bridges but in different ways. The LightSB solver allows direct minimized KL-divergence with the ground-truth solution, knowing only start and end marginals. The LightSBM solver is based on bridge matching and introduces the new concept of "optimal projection," allowing the Schrödinger Bridge to be solved in one bridge-matching iteration."
+      bio: "Prof. Korotin is an Assistant Professor and leads the Generative AI research group at Skoltech while serving as a senior research scientist at AIRI. He earned his PhD in Math & Physics in 2023 under the supervision of Prof. E. Burnaev. His research mostly revolves around generative modeling with a particular focus on developing novel algorithms based on Optimal Transport and Schrodinger Bridges."
 
 - type: Upcoming Talks
   members:
     # - speaker: Qiang Liu, UT Austin
     #   date: 01/20/2025
     #   abstract: TBD
-    - speaker: Alexander Korotin, Skoltech
-      date: 02/03/2025
-      abstract: TBD
+    # - speaker: Alexander Korotin, Skoltech
+    #   date: 02/03/2025
+    #   abstract: TBD
     - speaker: Pin-Yu Chen, IBM Research
       date: 02/10/2025
       abstract: TBD
