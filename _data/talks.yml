@@ -1,10 +1,10 @@
-- type: Happening
-  members:
-    - speaker: Ishan Misra, Meta AI (FAIR)
-      date: 02/24/2025
-      title: "Movie Gen: A Cast of Media Foundation Models"
-      abstract: "Movie Gen is a cast of media-generation foundation models that enables users to use simple text inputs to generate high-quality videos, personalize or edit them, and add audio. When the generations are evaluated by humans, on all of these tasks Movie Gen establishes new state-of-the-art performance compared to existing solutions. I'll cover the basic innovations in MovieGen around simplified architecture, training objective, scaling data and other design choices that enabled this step change in media generation."
-      bio: "Ishan Misra is a Research Scientist in Meta's GenAI org. He leads the research efforts at Meta in video generation and was the tech lead for Meta's MovieGen and Emu Video foundational video models. In the past, he worked on self-supervised learning methods such as BarlowTwins, DINO. Ishan was featured in MIT Tech Review's 35 innovators under 35 and is the recipient of Carnegie Mellon's Recent Alumni Achievement Award."
+# - type: Happening
+#   members:
+#     - speaker: Ishan Misra, Meta AI (FAIR)
+#       date: 02/24/2025
+#       title: "Movie Gen: A Cast of Media Foundation Models"
+#       abstract: "Movie Gen is a cast of media-generation foundation models that enables users to use simple text inputs to generate high-quality videos, personalize or edit them, and add audio. When the generations are evaluated by humans, on all of these tasks Movie Gen establishes new state-of-the-art performance compared to existing solutions. I'll cover the basic innovations in MovieGen around simplified architecture, training objective, scaling data and other design choices that enabled this step change in media generation."
+#       bio: "Ishan Misra is a Research Scientist in Meta's GenAI org. He leads the research efforts at Meta in video generation and was the tech lead for Meta's MovieGen and Emu Video foundational video models. In the past, he worked on self-supervised learning methods such as BarlowTwins, DINO. Ishan was featured in MIT Tech Review's 35 innovators under 35 and is the recipient of Carnegie Mellon's Recent Alumni Achievement Award."
 - type: Upcoming Talks
   members:
     # - speaker: Qiang Liu, UT Austin
@@ -32,6 +32,11 @@
 
 - type: Previous Talks
   members:
+    - speaker: Ishan Misra, Meta AI (FAIR)
+      date: 02/24/2025
+      title: "Movie Gen: A Cast of Media Foundation Models"
+      abstract: "Movie Gen is a cast of media-generation foundation models that enables users to use simple text inputs to generate high-quality videos, personalize or edit them, and add audio. When the generations are evaluated by humans, on all of these tasks Movie Gen establishes new state-of-the-art performance compared to existing solutions. I'll cover the basic innovations in MovieGen around simplified architecture, training objective, scaling data and other design choices that enabled this step change in media generation."
+      bio: "Ishan Misra is a Research Scientist in Meta's GenAI org. He leads the research efforts at Meta in video generation and was the tech lead for Meta's MovieGen and Emu Video foundational video models. In the past, he worked on self-supervised learning methods such as BarlowTwins, DINO. Ishan was featured in MIT Tech Review's 35 innovators under 35 and is the recipient of Carnegie Mellon's Recent Alumni Achievement Award."
     - speaker: Pin-Yu Chen, IBM Research
       date: 02/10/2025
       title: "Exploring and Mitigating Safety Risks in Large Language Models and Generative AI"
