@@ -1,10 +1,11 @@
-# - type: Happening
-#   members:
-#     - speaker: Ishan Misra, Meta AI (FAIR)
-#       date: 02/24/2025
-#       title: "Movie Gen: A Cast of Media Foundation Models"
-#       abstract: "Movie Gen is a cast of media-generation foundation models that enables users to use simple text inputs to generate high-quality videos, personalize or edit them, and add audio. When the generations are evaluated by humans, on all of these tasks Movie Gen establishes new state-of-the-art performance compared to existing solutions. I'll cover the basic innovations in MovieGen around simplified architecture, training objective, scaling data and other design choices that enabled this step change in media generation."
-#       bio: "Ishan Misra is a Research Scientist in Meta's GenAI org. He leads the research efforts at Meta in video generation and was the tech lead for Meta's MovieGen and Emu Video foundational video models. In the past, he worked on self-supervised learning methods such as BarlowTwins, DINO. Ishan was featured in MIT Tech Review's 35 innovators under 35 and is the recipient of Carnegie Mellon's Recent Alumni Achievement Award."
+- type: Happening
+  members:
+    - speaker: Maximilian Nickel, Meta AI (FAIR) in New York
+      date: 03/03/2025
+      title: "Epistemic Limits of Model Validation in Complex Systems"
+      abstract: "AI has undergone a dramatic paradigm shift, not only in terms of the impressive capabilities of state-of-the-art models, but also in terms of how they are trained, deployed, and evaluated. Most importantly, AI systems do not exist in a controlled environment anymore (e.g., meticulously collected i.i.d. samples), but interact continuously with social systems, e.g., through training and evaluation data as well as their direct influence on social processes. Crucially, the validity of even our most basic machine learning methods is not guaranteed in this new context. Yet, without valid methodology we cannot ensure the intended outcomes of deployed AI systems nor continue to advance AI research in a scientifically sound way. In this talk, I will therefore argue that we need new theoretical foundations for machine learning and AI that explicitly account for the complex social system with which an AI system interacts or in which it is situated. I will discuss this on the example of the ubiquitous train-test paradigm. While this form of model validation has arguably been one of the single most important contributors to the breathtaking progress in AI, I will show via rigorous impossibility results that it is not valid anymore for key tasks in modern AI under current data collection practices. Based on these insights, I will also introduce a novel cooperative approach to data collection with strong game-theoretical guarantees that can alleviate these issues. I will conclude this talk with a call for increased interdisciplinary work at the intersection of AI theory, methods, and society."
+      bio: "Max Nickel is a research scientist manager at FAIR, Meta AI where he is leading the AI & Society team and also acted as a research area lead for Machine Learning and Society & Responsible AI. Before joining FAIR, Max was as a postdoctoral fellow at MIT where he was with the Laboratory for Computational and Statistical Learning and the Center for Brains, Minds and Machines. He received his PhD with summa cum laude from the Ludwig Maximilian University Munich as a research assistant at Siemens Corporate Technology. Recently, Max has also acted as Program Chair for ICLR 2023. Max’s research is focused on understanding the interplay of AI and social systems. For this purpose, he is combining machine learning theory and methods with complex systems theory including networks, dynamics, and emergence. Max aims to establish the necessary theoretical and methodological foundations for AI to safely interact with society and to obtain results that have a direct impact on AI practice, methods, and governance."
+
 - type: Upcoming Talks
   members:
     # - speaker: Qiang Liu, UT Austin
@@ -13,9 +14,9 @@
     # - speaker: Alexander Korotin, Skoltech
     #   date: 02/03/2025
     #   abstract: TBD
-    - speaker: Maximilian Nickel, Meta AI (FAIR) in New York
-      date: 03/03/2025
-      abstract: TBD
+    # - speaker: Maximilian Nickel, Meta AI (FAIR) in New York
+    #   date: 03/03/2025
+    #   abstract: TBD
     - speaker: Eric Nalisnick, Johns Hopkins University
       date: 03/17/2025
       abstract: TBD
