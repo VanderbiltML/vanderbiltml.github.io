@@ -1,10 +1,10 @@
-- type: Happening
-  members:
-    - speaker: Eric Nalisnick, Johns Hopkins University
-      date: 03/17/2025
-      title: "Learning to defer to one, multiple, or a population of expert(s)"
-      abstract: "Artificial intelligence is being deployed in ever more consequential settings such as healthcare and autonomous driving. Thus, we must ensure that these systems are safe and trustworthy. One near-term solution is to ensure that a human is involved in the decision making process and that the system can ask for help in difficult or high-risk scenarios.  I will present recent advances in the “learning to defer” paradigm: decision-making responsibility is allocated to either a human or model, depending on who is more likely to take the correction action.  In particular, I will present novel formulations that better model the human collaborator’s expertise and that can support multiple human decision makers."
-      bio: "Eric Nalisnick is an assistant professor at Johns Hopkins University. His research interests span statistical machine learning and probabilistic modeling, with an emphasis on quantifying uncertainty in deep learning, human-AI collaboration, specifying prior knowledge, and detecting distribution shift. He previously was an assistant professor at the University of Amsterdam, a postdoctoral researcher at the University of Cambridge and a PhD student at the University of California, Irvine. Eric has also held research positions at DeepMind, Microsoft, Twitter, and Amazon. His work has received funding from both industrial (Google, Amazon, Bosch) and government (Dutch Research Council) entities, and his papers have been recognized with selective oral presentations (ECCV 2024) and awards (AIStats 2023, AIStats 2024)."
+# - type: Happening
+#   members:
+#     - speaker: Eric Nalisnick, Johns Hopkins University
+#       date: 03/17/2025
+#       title: "Learning to defer to one, multiple, or a population of expert(s)"
+#       abstract: "Artificial intelligence is being deployed in ever more consequential settings such as healthcare and autonomous driving. Thus, we must ensure that these systems are safe and trustworthy. One near-term solution is to ensure that a human is involved in the decision making process and that the system can ask for help in difficult or high-risk scenarios.  I will present recent advances in the “learning to defer” paradigm: decision-making responsibility is allocated to either a human or model, depending on who is more likely to take the correction action.  In particular, I will present novel formulations that better model the human collaborator’s expertise and that can support multiple human decision makers."
+#       bio: "Eric Nalisnick is an assistant professor at Johns Hopkins University. His research interests span statistical machine learning and probabilistic modeling, with an emphasis on quantifying uncertainty in deep learning, human-AI collaboration, specifying prior knowledge, and detecting distribution shift. He previously was an assistant professor at the University of Amsterdam, a postdoctoral researcher at the University of Cambridge and a PhD student at the University of California, Irvine. Eric has also held research positions at DeepMind, Microsoft, Twitter, and Amazon. His work has received funding from both industrial (Google, Amazon, Bosch) and government (Dutch Research Council) entities, and his papers have been recognized with selective oral presentations (ECCV 2024) and awards (AIStats 2023, AIStats 2024)."
 
 - type: Upcoming Talks
   members:
@@ -33,6 +33,11 @@
 
 - type: Previous Talks
   members:
+    - speaker: Eric Nalisnick, Johns Hopkins University
+      date: 03/17/2025
+      title: "Learning to defer to one, multiple, or a population of expert(s)"
+      abstract: "Artificial intelligence is being deployed in ever more consequential settings such as healthcare and autonomous driving. Thus, we must ensure that these systems are safe and trustworthy. One near-term solution is to ensure that a human is involved in the decision making process and that the system can ask for help in difficult or high-risk scenarios.  I will present recent advances in the “learning to defer” paradigm: decision-making responsibility is allocated to either a human or model, depending on who is more likely to take the correction action.  In particular, I will present novel formulations that better model the human collaborator’s expertise and that can support multiple human decision makers."
+      bio: "Eric Nalisnick is an assistant professor at Johns Hopkins University. His research interests span statistical machine learning and probabilistic modeling, with an emphasis on quantifying uncertainty in deep learning, human-AI collaboration, specifying prior knowledge, and detecting distribution shift. He previously was an assistant professor at the University of Amsterdam, a postdoctoral researcher at the University of Cambridge and a PhD student at the University of California, Irvine. Eric has also held research positions at DeepMind, Microsoft, Twitter, and Amazon. His work has received funding from both industrial (Google, Amazon, Bosch) and government (Dutch Research Council) entities, and his papers have been recognized with selective oral presentations (ECCV 2024) and awards (AIStats 2023, AIStats 2024)."
     - speaker: Maximilian Nickel, Meta AI (FAIR) in New York
       date: 03/03/2025
       title: "Epistemic Limits of Model Validation in Complex Systems"
